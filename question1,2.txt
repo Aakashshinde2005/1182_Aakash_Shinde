@@ -1,0 +1,36 @@
+                                                     Rockwell Automation Inc.
+Q.1)
+Simple Problem Definition:
+1)  It must contain details of Rockwell Automation Inc.
+2)  It should have data of all 17 offshore developement centers.
+3)  Contains details of all the employees of the company.
+4)  It should have facility of membership for the employee of the company for sign in  or  sign out.
+5)  It also provide all details like information,images,contact no.,head details of 17 offshore developement centers.
+6)  It also provides details of job,if any center want to hire employee for company.
+7)  It should be secure for accesing.
+8)  It should be in updatable format.
+9)  It shows the total turnover of  the company in graph or in deatailed format.
+10)  perfectly run on the system. 
+
+
+
+         -------------------------------------------------------------------------------------------------------------------------------
+
+Q.2)
+Functional requirements:
+1)  Details of all the developement centers across all over the world.
+2)  Details of all the employees present in each branch.
+3)  Membership of all employees on system.
+4)  All centers contribution for the growth of the company.
+5)  Infrastures and other facilities provided over 17 offshore developement centers must be mentioned.
+6)  It provides the best resource solution for employees.
+
+
+Non-Functional requirements:
+1) security:   It cannot be accesed by other than employees of the company.
+2) effectiveness:  The system should be able to run effectively. 
+3) usability:  Data contained in system shouldnot be volatile.
+4) Confortness: The data must me in human readable format or easy to understand.
+5) updatable:  The system should be in updatable format.
+
+            --------------------------------------------------------------------------------------------------------------------------------
